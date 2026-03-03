@@ -51,7 +51,6 @@ table {
 :root {
   --page-width: 1000px;
 
-  --yellow: #E8D15D;
   --peach: #FFCCAF;
   --coral: #FF907D;
 
@@ -65,7 +64,6 @@ table {
 body {
   font-family: 'Lato', sans-serif;
   color: var(--text);
-  background-color: var(--yellow);
   background-color: #fffbc1;
   background-size: 20px 20px;
   background-image:  repeating-linear-gradient(to right, #47B2FF, #47B2FF 1px, #fffbc1 1px, #fffbc1);
