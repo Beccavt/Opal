@@ -163,3 +163,18 @@ h1 {
   border-top: 1px solid var(--border);
   font-size: 0.9rem;
 }
+
+@media (max-width: 768px) {
+  h1, h2, p {
+    text-align: left;
+  }
+
+  .container, section, .content {
+    width: 100%;
+    padding: 20px;
+  }
+
+  nav {
+    justify-content: center;
+  }
+}
